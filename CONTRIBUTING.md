@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD0013 -->
+<!-- markdownlint-disable MD013 -->
 <!-- omit in toc -->
 # Contributing to lighthouse-passport-wsfed-saml2
 
